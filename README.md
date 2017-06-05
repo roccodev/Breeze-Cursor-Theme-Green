@@ -1,4 +1,4 @@
-![alt text](https://github.com/RoccoDev/Breeze-Cursor-Theme-Green/raw/master/IconsPreview.png "Icons Preview")
+![Icons Preview](https://github.com/RoccoDev/Breeze-Cursor-Theme-Green/raw/master/IconsPreview.png "Icons Preview")
 
 # Breeze Cursor Theme - Green Fork
 
