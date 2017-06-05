@@ -1,3 +1,5 @@
 build/
 Breeze_Amber/
 ._*
+src/._*
+src/config/._*
