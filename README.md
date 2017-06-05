@@ -1,3 +1,7 @@
+![alt text](https://github.com/RoccoDev/Breeze-Cursor-Theme-Green/raw/master/IconsPreview.png "Icons Preview")
+
+# Breeze Cursor Theme - Green Fork
+
 Building the Bridge Icon set from the Inkscape SVG:
 
 1. Ensure you have inkscape and xcursorgen installed.
@@ -16,7 +20,7 @@ the cursors if you choose to do so.
 
 
 **Added by RoccoDev's Green fork**
-# How to customize colors
+## How to customize colors
 
 * Edit the cursors.svg file.
 
